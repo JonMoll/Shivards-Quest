@@ -47,5 +47,8 @@
     <ClInclude Include="PERSONAJES_SECUNDARIOS.h">
       <Filter>Archivos de encabezado</Filter>
     </ClInclude>
+    <ClInclude Include="resource.h">
+      <Filter>Archivos de encabezado</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>
