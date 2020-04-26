@@ -148,6 +148,7 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="ESCENARIO.cpp" />
+    <ClCompile Include="PERSONAJES_SECUNDARIOS.cpp" />
     <ClCompile Include="PERSONAJE_PRINCIPAL.cpp" />
     <ClCompile Include="SER.cpp" />
     <ClCompile Include="Shivards-Quest.cpp" />
@@ -157,6 +158,7 @@
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="ESCENARIO.h" />
+    <ClInclude Include="PERSONAJES_SECUNDARIOS.h" />
     <ClInclude Include="PERSONAJE_PRINCIPAL.h" />
     <ClInclude Include="SER.h" />
   </ItemGroup>
